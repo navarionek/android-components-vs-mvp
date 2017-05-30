@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CityScoreMVVM</string>
+    <string name="search">Search</string>
+    <string name="city_name">City name</string>
+</resources>
